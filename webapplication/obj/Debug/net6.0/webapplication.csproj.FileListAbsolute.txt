@@ -1,0 +1,12 @@
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\bin\Debug\net6.0\webapplication.deps.json
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\bin\Debug\net6.0\webapplication.dll
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\bin\Debug\net6.0\webapplication.pdb
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.csproj.AssemblyReference.cache
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.AssemblyInfoInputs.cache
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.AssemblyInfo.cs
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.csproj.CoreCompileInputs.cache
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.dll
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\refint\webapplication.dll
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\webapplication.pdb
+C:\Users\Niharika Reddy\source\repos\webapplication\webapplication\obj\Debug\net6.0\ref\webapplication.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6U1N82tdx/67oOpfvKioulChQxVyW+ox7MHZ3RhjCCnUoR7IYUYJsIPXQN39hyLAxNHLrxq/3O2AegkhisQZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niharika Reddy\\source\\repos\\webapplication\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niharika Reddy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Niharika Reddy\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Niharika Reddy\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
